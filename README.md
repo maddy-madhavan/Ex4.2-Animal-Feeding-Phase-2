@@ -46,7 +46,8 @@ For all the animal prefabs and food in th inspector (below the layer ) drop down
 
 ## PROGRAM :
 
-### DEVELOPED BY : k.madhavan
+### DEVELOPED BY :MADHAVAN K
+### REGISTER NUMBER : 212224220054
 
 ## SPAWN MANAGER :
 
